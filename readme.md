@@ -1,5 +1,9 @@
 # Purpose
 This is a minimal project template for a NodeJS project in Typescript with operational debug support in Visual Studio Code
+It exposes 2 URL:s using Express.
+
+1. http://localhost:8000/
+2. http://localhost:8000/hello/HelloWorld
 
 # Usage
 1. clone repo
